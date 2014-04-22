@@ -1,5 +1,7 @@
 # Flex Medias
 
+## [DEPRECATED, consider [SUIT flex embed](https://github.com/suitcss/components-flex-embed/)]
+
 > Flexible responsive fixed ratio medias to avoid browsers reflow.
 
 Some helpers for responsive, intrinsic ratio medias (video, iframe, objects, images...). It also avoid browsers reflow.
